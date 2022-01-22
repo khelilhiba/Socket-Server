@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (ConsoleApplication1.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  eco_conduite_algorithm.cpp
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(84): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(80): warning C4101: 'Medial_Accel' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(80): warning C4101: 'Accel' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(130): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(126): warning C4101: 'DesAccel' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(126): warning C4101: 'Medial_DesAccel' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(172): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(170): warning C4101: 'LatAccelOffset' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(170): warning C4101: 'LatAccel' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(170): warning C4101: 'LatAcc' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(225): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(223): warning C4101: 'LatAccelOffset' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(223): warning C4101: 'LatAccel' : variable locale non référencée
+C:\Users\sarbi\Desktop\projet\ConsoleApplication1\ConsoleApplication1\eco_conduite_algorithm.cpp(223): warning C4101: 'LatAcc' : variable locale non référencée
+  ConsoleApplication1.vcxproj -> C:\Users\sarbi\Desktop\projet\ConsoleApplication1\Debug\ProjectMW.exe
